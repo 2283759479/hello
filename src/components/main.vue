@@ -18,7 +18,7 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 .hello{
-	font-size:"50px";
-	color:"skyblue";
+  font-size: 50px;
+  color: aqua;
 }
 </style>
